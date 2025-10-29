@@ -38,8 +38,7 @@ Insight/Conclusion
 Dashboard
 Jika dashboard sudah di-deploy di Streamlit Cloud, masukkan link di file url.txt.
 Contoh isi url.txt
-https://iqlimabikesharingdataset-s3ezqzgfnqgy2crywqea7e.streamlit.app/
-
+https://iqlimarahmawati-bike-sharing-dataset--dashboarddashboard-p9iucf.streamlit.app/
 Catatan
 Pastikan semua file .csv berada di folder data/.
 Gunakan penamaan tahun, musim, atau kategori sesuai data asli agar dashboard menampilkan informasi yang jelas.

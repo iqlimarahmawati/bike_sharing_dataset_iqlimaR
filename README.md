@@ -19,7 +19,7 @@ iqlima_bike_sharing_dataset
 └─ url.txt                 # Link dashboard (Streamlit)
 
 Persiapan Environment
-1. Pastikan Python 3.9+ sudah terinstall.
+1. Pastikan Python 3.13 sudah terinstall.
 2. Masuk ke folder project: iqlima_bike_sharing_dataset
 
 3. Install semua library yang dibutuhkan: 
@@ -38,7 +38,7 @@ Insight/Conclusion
 Dashboard
 Jika dashboard sudah di-deploy di Streamlit Cloud, masukkan link di file url.txt.
 Contoh isi url.txt
-https://iqlimarahmawati-bike-sharing-dataset--dashboarddashboard-p9iucf.streamlit.app/
+https://iqlimarahmawati-bike-sharing-dataset--dashboarddashboard-qzliem.streamlit.app/
 Catatan
 Pastikan semua file .csv berada di folder data/.
 Gunakan penamaan tahun, musim, atau kategori sesuai data asli agar dashboard menampilkan informasi yang jelas.
